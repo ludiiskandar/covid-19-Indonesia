@@ -59,7 +59,7 @@ I had to remove all zero values from budget and revenue columns because they wou
 ---
 ### References
 1. SQL for data analysis
-2. (https://stack.com)](https://github.com/Gaelim/youtube/blob/master/Data%20Analysis%20Project%20November%202024%20-%20Copy.zip)
+2. https://www.kaggle.com/
 
 😄
 
