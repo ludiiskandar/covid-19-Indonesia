@@ -68,7 +68,7 @@ I had to remove all zero values from budget and revenue columns because they wou
 |Heading1|Heading2|
 |--------|--------|
 |Content|Content2|
-|PowerBI|SQL|
+|PowerBI|Excel|
 
 `column_1`
 
